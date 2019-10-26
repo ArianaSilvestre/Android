@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio2</string>
+    <string name="ingresar_nombre">Ingresar tu nombre:</string>
+    <string name="nombre">Nombre</string>
+    <string name="guardar">Guardar</string>
+    <string name="title_activity_detalle">Detalle de los datos</string>
+    <string name="password">password</string>
+</resources>
